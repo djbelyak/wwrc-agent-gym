@@ -5,21 +5,26 @@ Demo for [the XV International Conference "NPP Safety and Personnel Training"](h
 
 ## Build status
 
-TBD
+Master branch: [![Build Status](https://travis-ci.com/djbelyak/wwrc-agent-gym.svg?branch=master)](https://travis-ci.com/djbelyak/wwrc-agent-gym)
 
-## Code style
-
-TBD
+Develop branch: [![Build Status](https://travis-ci.com/djbelyak/wwrc-agent-gym.svg?branch=develop)](https://travis-ci.com/djbelyak/wwrc-agent-gym)
 
 ## Tech/framework used
 
 Build with
-- TBD
-- TBD
+
+- Python
 
 ## Installation
 
-TBD
+```Shell
+git clone https://github.com/djbelyak/wwrc-agent-gym.git
+cd wwrc-agent-gym
+pip install -r requirements.txt
+```
 
-## How to use?
+## How to use
 
+```Shell
+python
+```
